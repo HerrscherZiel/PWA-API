@@ -1,0 +1,124 @@
+{
+ "mahasiswa" :
+[{
+  "id": 1,
+  "name": "Mathe Allot",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Brocky Aldine",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Reggy Drinkwater",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Isidore Robertsen",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Carilyn Livett",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Kameko Russ",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Tymothy MacParlan",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Nick Tortoishell",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Abel Batterham",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Alaine Sissons",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Adelle Lechmere",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Holly Taffs",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Sara Chasney",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Hamlen Libbe",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Pattie Di Giacomo",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Waite Gonsalvo",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Maddie Keynd",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Helena Noads",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Randie Haslock",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Findlay Gallone",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Hersh Easterling",
+  "gender": "Male"
+}, {
+  "id": 22,
+  "name": "Kimberlee Adolfsen",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Jobi Hallstone",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Hillier Carl",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Leeanne Radnedge",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Orbadiah Cordobes",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Fraser Calliss",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "name": "Delano Bedenham",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Mariette Glasscoe",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Red Barrus",
+  "gender": "Male"
+}]
+}
